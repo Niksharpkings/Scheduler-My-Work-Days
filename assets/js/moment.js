@@ -15,5 +15,3 @@ const updateTime = () => {  //creating a function that will update the time
 
 setInterval(updateTime, 1000); //run the updateTime function every second
 updateTime(); //run the updateTime function right away
-
-
